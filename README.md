@@ -1,0 +1,1 @@
+# determinarsinunnumerodadoesdivisibleentre14.cpp
